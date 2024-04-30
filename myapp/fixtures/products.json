@@ -1,30 +1,29 @@
 [
-    {
+  {
       "model": "myapp.product",
       "pk": 1,
       "fields": {
-        "name": "Air Fryer",
-        "price": "129.99",
-        "description": "Frying food without using greese"
+          "name": "Air Fryer",
+          "price": "129.99",
+          "description": "Frying food without using grease"
       }
-    },
-    {
+  },
+  {
       "model": "myapp.product",
       "pk": 2,
       "fields": {
-        "name": "LapTop",
-        "price": "249.99",
-        "description": "Portable computer"
+          "name": "Laptop",
+          "price": "249.99",
+          "description": "Portable computer"
       }
-    }
-
-    {
+  },
+  {
       "model": "myapp.product",
       "pk": 3,
       "fields": {
-        "name": "Bowl",
-        "price": "15.99",
-        "description": "Something you cook food in"
-    }
-    }
-  ]
+          "name": "Bowl",
+          "price": "15.99",
+          "description": "Something you cook food in"
+      }
+  }
+]
